@@ -4,7 +4,7 @@
 [![NuGet](https://img.shields.io/nuget/v/FToolkit.Helpers.GitHub?color=0078d4&label=NuGet)](https://www.nuget.org/packages/FToolkit.Helpers.GitHub/)
 [![Azure Artifacts](https://feeds.dev.azure.com/finphie/7af9aa4d-c550-43af-87a5-01539b2d9934/_apis/public/Packaging/Feeds/DotNet/Packages/c7cc9126-48f7-4e69-9d25-b7a452d690ca/Badge)](https://dev.azure.com/finphie/Main/_artifacts/feed/DotNet/NuGet/FToolkit.Helpers.GitHub?preferRelease=true)
 
-GitHub APIクライアントです。
+GitHub関連のヘルパーライブラリです。
 
 ## 説明
 
